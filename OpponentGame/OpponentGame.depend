@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491972059 source:d:\3rdsemproject\c++ project\code blocks\the final game\opponentgame\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<ctime>
+	<cstdlib>
+

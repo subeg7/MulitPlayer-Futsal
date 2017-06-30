@@ -1,0 +1,15 @@
+solve bale and dimaria bugs 
+ 
+bale problem - 
+	is with the starting player ball possession
+problem - who gets the ball first either by starting possession or by reciving the ball because of misspassed ball of client
+
+
+
+What happens if?
+	server is starting the ball with bale
+	looses the ball
+	and wins after 3 times later
+	but marcelo wins
+   question is !- are both ( bale and marcelo are inflected with click Problem?)
+	

@@ -1,0 +1,15 @@
+Features:
+
+bugs:
+
+5	-->Bale and dimaria still doesn't get clicked at first
+1	--> still Bale doesn't get clicked at first
+
+recent devs:
+5	--> Live commentary of the Game
+4	--> Players Bounded only inside the Field
+3	--> Players created just after releasing the click
+2	--> Transmission works without even changing the players
+1	--> Ball misspassing works  [static]
+	
+	
